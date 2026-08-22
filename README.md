@@ -51,17 +51,11 @@ A simple calculator built using JavaScript to practice programming logic and DOM
 
 🔗 [View Project](https://github.com/aditittiwari1234/java-script-calculator)
 
-### ⏰ Digital Clock
+### 🎵 Kartify
 
-A browser-based digital clock project built while exploring JavaScript and dynamic web pages.
+A music streaming web application showcasing modern web development skills with dynamic features and user-friendly interface.
 
-🔗 [View Project](https://github.com/aditittiwari1234/digital-clock)
-
-### 🌡️ Temperature Converter
-
-A simple web application for converting temperatures between different units.
-
-🔗 [View Project](https://github.com/aditittiwari1234/temperature-converter)
+🔗 [View Project](https://github.com/aditittiwari1234/Kartify)
 
 ---
 
