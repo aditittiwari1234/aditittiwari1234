@@ -51,9 +51,9 @@ A simple calculator built using JavaScript to practice programming logic and DOM
 
 🔗 [View Project](https://github.com/aditittiwari1234/java-script-calculator)
 
-### 🎵 Kartify
+### 🛒 Kartify
 
-A music streaming web application showcasing modern web development skills with dynamic features and user-friendly interface.
+Kartify is an e-commerce web app featuring product browsing, search/filter, cart, login, checkout, and order management.
 
 🔗 [View Project](https://github.com/aditittiwari1234/Kartify)
 
