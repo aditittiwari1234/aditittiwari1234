@@ -65,19 +65,20 @@ A simple web application for converting temperatures between different units.
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats 
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aditittiwari1234&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditittiwari1234&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-</p>
-
----
+<p align="center"> <img src="https://github-stats-extended.vercel.app/api?username=aditittiwari1234&show_icons=true&theme=tokyonight&hide_border=true" height="180"/> <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=aditittiwari1234&layout=compact&theme=tokyonight&hide_border=true" height="180"/> </p>
 
 ## 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=aditittiwari1234&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=aditittiwari1234&theme=tokyonight&hide_border=true&border_radius=10" />
+</p>
+
+## 👀 Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=aditittiwari1234&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 </p>
 
 ---
