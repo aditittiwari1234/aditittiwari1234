@@ -10,7 +10,7 @@ I enjoy turning ideas into working applications and continuously improving my de
 
 ## 🚀 About Me
 
-* 🎓 B.Tech — Computer Science & Engineering
+* 🎓 B.Tech - Computer Science & Engineering
 * 💻 Interested in **Web Development & Software Development**
 * 🐍 Currently learning and building with **Python**
 * 🌐 Exploring modern web technologies
