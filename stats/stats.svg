@@ -1,0 +1,84 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+width="500" height="250">
+
+<rect width="500" height="250"
+      rx="12"
+      fill="#161b22"
+      stroke="#30363d"/>
+
+<text x="30" y="45"
+      fill="#58a6ff"
+      font-size="25"
+      font-family="Arial"
+      font-weight="bold">
+  GitHub Stats
+</text>
+
+<text x="30" y="90"
+      fill="#c9d1d9"
+      font-size="18"
+      font-family="Arial">
+  Repositories
+</text>
+
+<text x="450" y="90"
+      fill="#ffffff"
+      font-size="18"
+      font-family="Arial"
+      text-anchor="end">
+  7
+</text>
+
+<text x="30" y="125"
+      fill="#c9d1d9"
+      font-size="18"
+      font-family="Arial">
+  Followers
+</text>
+
+<text x="450" y="125"
+      fill="#ffffff"
+      font-size="18"
+      font-family="Arial"
+      text-anchor="end">
+  0
+</text>
+
+<text x="30" y="160"
+      fill="#c9d1d9"
+      font-size="18"
+      font-family="Arial">
+  Following
+</text>
+
+<text x="450" y="160"
+      fill="#ffffff"
+      font-size="18"
+      font-family="Arial"
+      text-anchor="end">
+  0
+</text>
+
+<text x="30" y="195"
+      fill="#c9d1d9"
+      font-size="18"
+      font-family="Arial">
+  Stars
+</text>
+
+<text x="450" y="195"
+      fill="#ffffff"
+      font-size="18"
+      font-family="Arial"
+      text-anchor="end">
+  0
+</text>
+
+<text x="30" y="225"
+      fill="#8b949e"
+      font-size="12"
+      font-family="Arial">
+  Automatically updated by GitHub Actions
+</text>
+
+</svg>
