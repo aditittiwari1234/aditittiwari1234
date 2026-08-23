@@ -59,19 +59,6 @@ Kartify is an e-commerce web app featuring product browsing, search/filter, cart
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="./stats/stats.svg" height="220"/>
-  <img src="./stats/languages.svg" height="220"/>
-</p>
-
-## 🔥 Contribution Activity
-
-<p align="center">
-  <img src="./stats/streak.svg" />
-</p>
-
 ## 👀 Profile Views
 
 <p align="center">
